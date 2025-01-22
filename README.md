@@ -1,1 +1,1 @@
-# book
+# YAMA is always wise.
